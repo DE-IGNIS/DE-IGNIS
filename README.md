@@ -9,8 +9,8 @@
 <tr>
 <td width="55%" valign="middle">
 <div align="center">
-👋 Hello World! I'm Mausam Kar
-@Mausam5055
+👋 Hello World! I'm Sudarsh Karan Chauhan
+@Darysn
 </div>
 </td>
 <td width="45%" valign="middle">
@@ -31,9 +31,9 @@
 | **🎯 Interests** | Software Development • AI/ML • Full-Stack Development |
 | **📚 Learning** | Advanced Programming • Emerging Technologies • Cloud Computing |
 | **🤝 Collaboration** | Open-Source Projects • Innovative Solutions • Tech Communities |
-| **📧 Contact** | 📧 [rikikumkar@gmail.com](mailto:rikikumkar@gmail.com) |
-| **🔗 LinkedIn** | [mausam-kar](https://www.linkedin.com/in/mausam-kar-6388861a7/) |
-| **🌍 Portfolio** | [mausam03.vercel.app](https://mausam03.vercel.app/) |
+| **📧 Contact** | 📧 []() |
+| **🔗 LinkedIn** | []() |
+| **🌍 Portfolio** | []() |
 | **🏷️ Pronouns** | He/Him |
 | **⚡ Fun Fact** | Always exploring new technologies and building cool projects! |
 
@@ -44,10 +44,10 @@
 ### 🎨 **Connect With Me**
 <div align="center">
   
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mausam-kar-6388861a7/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mausam03.vercel.app/)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikikumkar@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mausam5055)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkdein link)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](portfolio link)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](my gmail)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](github link)
 
 </div>
 
