@@ -1,5 +1,26 @@
 # 💫 About Me:
-🔭 <br>👯 <br>🤝 <br>🌱 <br>💬 <br>⚡
+I'm a Computer Science and Engineering student passionate about creating innovative digital experiences. My journey in programming began in 2024, and since then, I've been diving deep into the world of software development with enthusiasm and curiosity.
+
+### 🛠️ Technical Skills
+- **Languages:** Python, Java, C/C++, JavaScript
+- **Web Development:** React
+- **Mobile Development:** React Native
+- **Currently Learning:** Mobile development and full-stack development
+
+### 🎯 Interests & Focus
+I'm particularly excited about:
+- Augmented Reality/Virtual Reality technologies
+- Mobile application development
+- Video game design and graphics
+- Creating immersive user experiences
+- 
+### 📚 Beyond Coding
+When I'm not coding, you can find me reading books, solving Rubik's cubes, or exploring the latest video games for inspiration.
+
+### 🚀 Current Goals
+I'm actively working on building my expertise in full-stack and mobile development while exploring exciting opportunities in AR/VR and game development.
+
+---
 <!-- Wil add GIF later 
 <div align="center">
   <img alt="Coding" width="100%" max-width="300px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Ftbzl1dnN1YXZjNDU5M2JvbmhjeXVncGZjcGNpdG9tY2xjNXVzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
