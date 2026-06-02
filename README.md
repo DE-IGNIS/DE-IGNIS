@@ -2,9 +2,9 @@
 I'm a Computer Science and Engineering student passionate about creating innovative digital experiences. My journey in programming began in 2024, and since then, I've been diving deep into the world of software development with enthusiasm and curiosity.
 
 ### 🛠️ Technical Skills
-- **Languages:** Python, Java, C/C++, JavaScript
-- **Web Development:** React
-- **Mobile Development:** React Native
+- **Languages:** Python, Java, C/C++, JavaScript, TypeScript, 
+- **Web Development:** React, Next.js
+- **Mobile Development:** React Native, Expo
 - **Currently Learning:** Mobile development and full-stack development
 
 ### 🎯 Interests & Focus
@@ -13,7 +13,7 @@ I'm particularly excited about:
 - Mobile application development
 - Video game design and graphics
 - Creating immersive user experiences
-- 
+
 ### 📚 Beyond Coding
 When I'm not coding, you can find me reading books, solving Rubik's cubes, or exploring the latest video games for inspiration.
 
