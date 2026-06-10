@@ -23,10 +23,6 @@ When I'm not coding, you can find me reading books, solving Rubik's cubes, or ex
 I'm actively working on building my expertise in full-stack and mobile development while exploring exciting opportunities in AR/VR and game development.
 
 ---
-<!-- Wil add GIF later 
-<div align="center">
-  <img alt="Coding" width="100%" max-width="300px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Ftbzl1dnN1YXZjNDU5M2JvbmhjeXVncGZjcGNpdG9tY2xjNXVzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-</div> -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudarsh-chauhan-2b63bb247) 
@@ -37,7 +33,6 @@ I'm actively working on building my expertise in full-stack and mobile developme
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=DE-IGNIS&theme=dark&hide_border=false)<br/>
 ![](https://streak-stats.demolab.com/?user=DE-IGNIS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DE-IGNIS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
