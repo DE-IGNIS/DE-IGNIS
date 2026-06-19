@@ -11,10 +11,8 @@ I'm a Computer Science and Engineering student passionate about creating innovat
 
 ### 🎯 Interests & Focus
 I'm particularly excited about:
-- Augmented Reality/Virtual Reality technologies
 - Mobile application development
 - Video game design and graphics
-- Creating immersive user experiences
 
 ### 📚 Beyond Coding
 When I'm not coding, you can find me reading books, solving Rubik's cubes, or exploring video games.
