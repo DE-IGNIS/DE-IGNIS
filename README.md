@@ -6,7 +6,7 @@ I'm a Computer Science and Engineering student passionate about creating innovat
 - **Web Development:** React, Node.js, FastAPI, Vite, HTML5, CSS3
 - **Mobile Development:** React Native, Expo
 - **Databases & Backend:** MySQL, MongoDB, Appwrite
-- **AI/ML:** Pandas, PyTorch, TensorFlow, scikit-learn
+- **AI/ML:** Pandas, PyTorch, TensorFlow
 - **DevOps & Tools:** Git, GitHub, Docker, Postman, Vercel, Render, GitHub Actions, Supabase
 
 ### 🎯 Interests & Focus
