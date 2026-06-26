@@ -18,7 +18,6 @@ I'm particularly excited about:
 When I'm not coding, you can find me reading books, solving Rubik's cubes, or exploring video games.
 
 ### 🚀 Current Goals
-I'm actively working on building my expertise in full-stack and mobile development while exploring exciting opportunities in AR/VR and game development.
 
 ---
 
