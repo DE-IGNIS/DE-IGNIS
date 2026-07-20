@@ -2,7 +2,7 @@
 I'm a Computer Science and Engineering student passionate about creating innovative digital experiences. My journey in programming began in 2024, and since then, I've been diving deep into the world of software development with curiosity.
 
 ### 🛠️ Technical Skills
-- **Languages:** C/C++, , JavaScript, TypeScript, Python 
+- **Languages:** C/C++, , , TypeScript, Python 
 - **Web Development:** React, Node.js, FastAPI, Vite, HTML5, CSS3
 - **Mobile Development:** React Native, Expo
 - **Databases & Backend:** MySQL, MongoDB, ,
