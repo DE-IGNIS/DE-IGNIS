@@ -1,13 +1,13 @@
 # 💫 About Me
-I'm a Computer Science and Engineering student who loves experimenting new things , from mobile/web apps to ai agents . I started programming in 2024, and I've been hooked ever since, picking up new tools and frameworks as I go.
+I'm a Computer Science and Engineering student who loves experimenting new things , from mobile/web apps to agentic ai. I started programming in 2024, and I've been hooked ever since, picking up new tools and frameworks as I go.
 
 ### 🛠️ Technical Skills
-- **Languages:** C/C++, Java, JavaScript, TypeScript, Python
-- **Web Development:** React, Node.js, FastAPI, Vite, HTML5, CSS3
+- **Languages:** TypeScript, Python, C/C++, Java, JavaScript, Golang
+- **Web Development:** React, Next.js, Node.js, FastAPI, HTML5/CSS3
 - **Mobile Development:** React Native, Expo
-- **Databases & Backend:** MySQL, MongoDB, Appwrite
+- **Databases & Backend:** PostgreSQL, MongoDB, Appwrite, Supabase, SQLite, ChromaDB
 - **AI/ML:** Pandas, PyTorch, TensorFlow, scikit-learn
-- **DevOps & Tools:** Git, GitHub, Docker, Postman, Vercel, Render, GitHub Actions, Supabase
+- **DevOps & Tools:** Git, Docker, Postman, Vercel, Render, GitHub Actions, Zapier, Jules, Eraser (Documentation) , Stitch (Google), n8n, GraphQL
 
 ### 📚 Beyond Coding
 When I step away from the keyboard, I'm usually reading, solving Rubik's cubes, or getting lost in a video game.
