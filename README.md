@@ -1,5 +1,5 @@
-w# 💫 About Me
-I'm a Computer Science and Engineering student who loves experimenting new things , from mobile/web apps to agentic ai. I started programming in 2024, and I've been hooked ever since, picking up new tools and frameworks as I go.
+# 💫 About Me
+I'm a Computer Science and Engineering student who loves trying out new things , from mobile/web apps to agentic ai. I started programming in 2024, and I've been enjoying it ever since, picking up new tools and frameworks as I go.
 
 ### 🛠️ Technical Skills
 - **Languages:** TypeScript, Python, C/C++, Java, JavaScript, Golang
