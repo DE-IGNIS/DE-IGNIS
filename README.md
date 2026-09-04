@@ -22,6 +22,9 @@ When I step away from the keyboard, I'm usually reading, solving Rubik's cubes, 
 
 ## 📊 GitHub Stats
 ![](https://streak-stats.demolab.com/?user=DE-IGNIS&theme=dark&hide_border=false)<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=JAbhinav11&color=blueviolet&style=for-the-badge&color=892BE2&label=+%F0%9F%91%80+MY+PROFILE+VISITS+)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
