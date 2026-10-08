@@ -2,7 +2,7 @@
 I'm a Computer Science and Engineering student who loves trying out new things , from mobile/web apps to agentic ai. I started programming in 2024, and I've been enjoying it ever since, picking up new tools and frameworks as I go.
 
 ### 🛠️ Technical Skills
-- **Languages:** TypeScript, , C/C++, Java, JavaScript, Golang
+- **Languages:** TypeScript, Python, C/C++, Java, JavaScript, Golang
 - **Web Development:** React, Next.js, Node.js, FastAPI, HTML5/CSS3
 - **Mobile Development:** React Native, Expo
 - **Databases & Backend:** PostgreSQL, MongoDB, Appwrite, Supabase, SQLite, ChromaDB
